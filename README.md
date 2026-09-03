@@ -27,7 +27,7 @@ Most resume scanners give you a vague "match percentage." This tool goes deeper:
 
 ## 🚀 Live Demo
 
-🌐 **[Try it live on Streamlit Cloud](YOUR_DEPLOYED_URL_HERE)**
+🌐 **[Try it live on Streamlit Cloud](https://ai-powered-ats-resume-screening-jsssrnztchxwkiqs7cchaz.streamlit.app/)**
 
 Or run it locally in 30 seconds:
 
